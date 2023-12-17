@@ -1,0 +1,6 @@
+
+Ritika,7654321890,ritika@gmail.com,5 Star,1,5,25,Sun Dec 17 20:37:27 2023
+Khushi,5432167890,khushi@gmail.com,5 Star,1,1,5,Sun Dec 17 20:38:01 2023
+Aarushi,6543217890,aarushi@gmail.com,Cake,3,0,0,Sun Dec 17 20:46:01 2023
+Aarushi,6574839201,aarushi@gmail.com,5 Star,1,0,0,Sun Dec 17 20:46:30 2023
+Nisha,7865943021,nisha@gmail.com,Milky Bar,2,87,435,Sun Dec 17 20:51:32 2023
