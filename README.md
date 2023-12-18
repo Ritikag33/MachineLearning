@@ -9,3 +9,4 @@ In this repo you can find:
    - Inventory Management with Files
    - Inventory Management with JSON
    - Mastering Numpy Arrays
+   - Automate OS with Python (Creating sub directories/Creating Bulk Folders/ Read Text file in Bulk)
