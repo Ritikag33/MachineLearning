@@ -8,3 +8,4 @@ In this repo you can find:
    - Working with Files in Python
    - Inventory Management with Files
    - Inventory Management with JSON
+   - Mastering Numpy Arrays
