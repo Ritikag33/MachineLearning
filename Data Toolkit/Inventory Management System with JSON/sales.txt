@@ -1,0 +1,7 @@
+1001,ritika,ritika@gmail.com,8765432190,5 Star,20,5,100,Mon Dec 18 12:23:31 20231003,kriti,kriti@gmail.com,876543210,Candy,5,1,5,Mon Dec 18 12:30:20 2023
+1003,Harsh,harsh@gmail.com,9876543210,Candy,5,1,5,Mon Dec 18 12:34:34 2023
+1001,shruti,shruti@gmail.com,6543217890,5 Star,20,5,100,Mon Dec 18 12:35:11 2023
+1002,Aarushi,aarushi@gmail.com,6543217890,Milky Bar,10,10,100,Mon Dec 18 12:51:50 2023
+1002,Aarushi,aarushi@gmail.com,6543217890,Milky Bar,10,280,2800,Mon Dec 18 12:51:50 20231003,krish,krish@gmail.com,5432167890,Candy,5,20,100,Mon Dec 18 12:52:52 2023
+1002,sami,sami@gmail.com,5432156789,Milky Bar,10,10,100,Mon Dec 18 12:54:18 2023
+1001,sushant,sushant@gmail.com,654321890,5 Star,20,3,60,Mon Dec 18 13:03:25 2023
