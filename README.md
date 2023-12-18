@@ -6,3 +6,5 @@ In this repo you can find:
 
 2. Data Toolkit
    - Working with Files in Python
+   - Inventory Management with Files
+   - Inventory Management with JSON
