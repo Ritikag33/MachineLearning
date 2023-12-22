@@ -11,3 +11,4 @@ In this repo you can find:
    - Mastering Numpy Arrays
    - Automate OS with Python (Creating sub directories/Creating Bulk Folders/ Read Text file in Bulk)
    - Libraries for Data Analysis(NumPy/Pandas)
+   - Libraries for Data Visualization(Matplotlib)
