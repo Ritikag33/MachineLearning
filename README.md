@@ -12,3 +12,8 @@ In this repo you can find:
    - Automate OS with Python (Creating sub directories/Creating Bulk Folders/ Read Text file in Bulk)
    - Libraries for Data Analysis(NumPy/Pandas)
    - Libraries for Data Visualization(Matplotlib)
+  
+3. Data Analytics
+   - Getting started with Python
+   - Data Preprocessing with Google Playstore
+   - Introduction to EDA
