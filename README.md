@@ -4,7 +4,7 @@ In this repo you can find:
    - Probability Distribution
    - Inferential Statistics
 
-2. Data Toolkit
+2. Data Toolkit/ Libraries (Numpy/Matplotlib)
    - Working with Files in Python
    - Inventory Management with Files
    - Inventory Management with JSON
@@ -14,6 +14,12 @@ In this repo you can find:
    - Libraries for Data Visualization(Matplotlib)
   
 3. Data Analytics
-   - Getting started with Python
+   - Getting started with Pandas
    - Data Preprocessing with Google Playstore
    - Introduction to EDA
+   - Data Cleaning
+   - Data Visualization
+   - Data Analysis Intro
+   - Black Friday Sales Data Analysis
+   - Data Visualization on Heart Disease
+   - GDP Analysis
