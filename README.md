@@ -24,8 +24,18 @@ Welcome to the Machine Learning Repository! This repository covers various aspec
    - Data Visualization
    - Data Analysis Intro
    - Black Friday Sales Data Analysis
-   - Data Visualization on Heart Disease
+   - _Data Visualization on Heart Disease_
    - GDP Analysis
+
+## 4. Web Scraping
+   ### Projects :
+   - BookScraper | Website : ToScrape
+   - Scraping Quotes
+   - Wikipedia Scraper (Search a Person and Scrape it's wikipedia)
+   - Stock Image Scrapper (Downloading images from a website)
+   - Stock Image Infinite Scroll Scraper (Scrapping website with infinte scroll enables)
+   - _Youtube Scrapper with Selenium (Scrape the video details for a youtube channel and analyse the csv file created)_
+   - _Google Image Scraper and Download (Search for an image tag and download its images in bulk from google)_
 
 Explore the folders and tutorials to enhance your knowledge in data analytics and machine learning. Happy learning!
 
