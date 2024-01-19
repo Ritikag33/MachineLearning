@@ -37,5 +37,16 @@ Welcome to the Machine Learning Repository! This repository covers various aspec
    - _Youtube Scrapper with Selenium (Scrape the video details for a youtube channel and analyse the csv file created)_
    - _Google Image Scraper and Download (Search for an image tag and download its images in bulk from google)_
 
+## 5. Streamlit
+   -    Getting Started with Streamlit : Learn how to write headings, text inputs and special inputs create forms, sliders and integrate scripts in streamlit
+   -    Data Visualization : Learn visualization with Matplotlib, seaborn and Plotly in streamlit
+   -    Page Beautification : How to work with columns, expanders and empty functionalities, echo and stop and switching tabs
+   -    Working with Data : How to create dataframe, upload files, convert image into various forms(jpg,jpeg,png) or rotate an image
+
+## 6. SQL
+   - Basics of SQL : Writing DDL Queries, Relationship between Tables , Joins in SQL , Set Theory and Subqueries, Window functions, Working with Date and Time , Working with JSON, Time Series and Analysis, Data Preprocessing using SQL
+   - Importing and Analysing datasets using SQL
+   - Advance SQL : Views and Triggers, Dynamic SQL
+
 Explore the folders and tutorials to enhance your knowledge in data analytics and machine learning. Happy learning!
 
