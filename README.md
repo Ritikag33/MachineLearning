@@ -8,7 +8,7 @@ Welcome to the Machine Learning Repository! This repository covers various aspec
    - Inferential Statistics
 
 ## 2. Data Toolkit/ Libraries (Numpy/Matplotlib)
-*Link to Noes for Command Line Interface:*
+*Link to Notes for Command Line Interface:*
 https://ritikaz.notion.site/Command-Line-e45c0d5c166f4b998b08ee9a43267052?pvs=4
    - Working with Files in Python
    - Inventory Management with Files
