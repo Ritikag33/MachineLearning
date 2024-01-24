@@ -51,6 +51,22 @@ Welcome to the Machine Learning Repository! This repository covers various aspec
 ## 7. Machine Learning
    - Linear Regression : How to implement a Linear Regression model from Scratch and using Sklearn Library
    - Multiple Linear Regression : Implementing MLR using Sklearn, Assumptions in Linear Regression, Ordinary Least Square (OLR) Method
+   - Polynomial Regression
+   - Support Vector Machine
+   - Decision Tree and Random Forest Regressor
+   - Learn various Classifictaion Algorithms with titanic dataset
+   - KMeans Clustering Algorithm : Implementation and Elbow Method
+   - Feature Engineering :
+     1. Feature SElection with Correlation Matrix, Extra Tree Classifier and SelectKBest Method
+     2. K-Fold Cross Validation
+     3. PCA
+     4. TSNE
+   - Working with Datasets and Projects:
+     1. EDA with Titanic Survival Dataset
+     2. Intro to working with images in python with MNIST Dataset
+     3. _PUBG Game Prediction (Feature Engineering and Catboost Model)_
+     4. Human Activity Recognition with smartphone data (Learn Hyper-Parameter Tuning and Cross Validation with different classifictaion techniques)
+     5. Solar Prediction : Learn Feature Selection with Correlation matrix, selectkbest, extratree classifier, feature engineering and transformers visualization also using multi layer perceptron to predict the model output.
 
 Explore the folders and tutorials to enhance your knowledge in data analytics and machine learning. Happy learning!
 
