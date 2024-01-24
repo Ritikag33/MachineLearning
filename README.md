@@ -8,6 +8,8 @@ Welcome to the Machine Learning Repository! This repository covers various aspec
    - Inferential Statistics
 
 ## 2. Data Toolkit/ Libraries (Numpy/Matplotlib)
+*Link to Noes for Command Line Interface:*
+https://ritikaz.notion.site/Command-Line-e45c0d5c166f4b998b08ee9a43267052?pvs=4
    - Working with Files in Python
    - Inventory Management with Files
    - Inventory Management with JSON
@@ -44,11 +46,15 @@ Welcome to the Machine Learning Repository! This repository covers various aspec
    -    Working with Data : How to create dataframe, upload files, convert image into various forms(jpg,jpeg,png) or rotate an image
 
 ## 6. SQL
+*Link to Notes:*
+https://ritikaxg.notion.site/SQL-4577a3fb064d4134a8b44bd787aecad0?pvs=4
    - Basics of SQL : Writing DDL Queries, Relationship between Tables , Joins in SQL , Set Theory and Subqueries, Window functions, Working with Date and Time , Working with JSON, Time Series and Analysis, Data Preprocessing using SQL
    - Importing and Analysing datasets using SQL
    - Advance SQL : Views and Triggers, Dynamic SQL
 
 ## 7. Machine Learning
+*Link to Notes:*
+https://ritikaxg.notion.site/Machine-Learning-9c95836f0558447dab2d739ae697245f?pvs=4
    - Linear Regression : How to implement a Linear Regression model from Scratch and using Sklearn Library
    - Multiple Linear Regression : Implementing MLR using Sklearn, Assumptions in Linear Regression, Ordinary Least Square (OLR) Method
    - Polynomial Regression
