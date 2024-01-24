@@ -48,5 +48,9 @@ Welcome to the Machine Learning Repository! This repository covers various aspec
    - Importing and Analysing datasets using SQL
    - Advance SQL : Views and Triggers, Dynamic SQL
 
+## 7. Machine Learning
+   - Linear Regression : How to implement a Linear Regression model from Scratch and using Sklearn Library
+   - Multiple Linear Regression : Implementing MLR using Sklearn, Assumptions in Linear Regression, Ordinary Least Square (OLR) Method
+
 Explore the folders and tutorials to enhance your knowledge in data analytics and machine learning. Happy learning!
 
